@@ -71,15 +71,15 @@
       "err": {}
     },
     {
-      "title": "is declared as equal to Chelsea",
-      "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
+      "title": "is defined using let",
+      "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
-      "title": "is defined using let",
-      "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
+      "title": "is declared as equal to Chelsea",
+      "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
       "duration": 0,
       "currentRetry": 0,
       "err": {}
